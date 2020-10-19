@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with machine creating in ctf 
 - 💬 Ask me about web penti
 - 😄 Pronouns: Too reach the top spot one day...
-- ⚡ Fun fact: doing stupid then you thorugh
+- ⚡ Fun fact: doing stupid then you thorugh :?
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lightningsarp&label=Views&color=blue&style=plastic" alt="lightningsarp" /> </p>
 
