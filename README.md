@@ -10,12 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lightningsarp&label=Views&color=blue&style=plastic" alt="lightningsarp" /> </p>
 
-- 🔭 I’m currently a Student
-- 🌱 I’m currently learning Networking, Programming, Pentesting
-- 💬 Ask me about Pentesting 
-- ⚡ Fun fact: I play Crypto as my main in APEX
-
-### 📈 Stat:
+### 📈 Staet:
 ***
 
 <a href="https://github.com/lightningsarp">
