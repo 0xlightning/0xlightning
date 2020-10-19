@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lightningsarp&label=Views&color=blue&style=plastic" alt="lightningsarp" /> </p>
 
-### 📈 Staet:
+### 📈 Start:
 ***
 
 <a href="https://github.com/lightningsarp">
