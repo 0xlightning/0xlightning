@@ -1,4 +1,4 @@
-### Hi there, I am kspraveen most of them know me as lightningsarp <img src="https://raw.githubusercontent.com/lightningsarp/lightningsarp/main/iteams/Hi.gif" height="30" width="30" />
+### Hi there, I am kspraveen <img src="https://raw.githubusercontent.com/lightningsarp/lightningsarp/main/iteams/Hi.gif" height="30" width="30" /> most of them know me as lightningsarp 
 
 - 🔭 I’m currently studying @ college
 - 🌱 I’m currently learning reversing
