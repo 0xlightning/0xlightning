@@ -1,15 +1,15 @@
 ### Hi there, I am kspraveen <img src="https://raw.githubusercontent.com/lightningsarp/lightningsarp/main/iteams/Hi.gif" height="30" width="30" /> most of them know me as lightningsarp 
 
 ![image](/iteams/programer.gif)
-**
-- 🔭 I’m currently studying @ college
-- 🌱 I’m currently learning reversing
-- 👯 I’m looking to collaborate on Ctf-Players
-- 🤔 I’m looking for help with creating vulnerable machines
-- 💬 Ask me about web penti
-- 😄 Pronouns: Too reach the top spot one day...
-- ⚡ Fun fact: doing stupid then you thorugh :?
-**
+
+**- 🔭 **I’m currently studying @ college**
+**- 🌱 I’m currently learning reversing**
+**- 👯 I’m looking to collaborate on Ctf-Players**
+**- 🤔 I’m looking for help with creating vulnerable machines**
+**- 💬 Ask me about web penti 
+**- 😄 Pronouns: Too reach the top spot one day...**
+**- ⚡ Fun fact: doing stupid then you thorugh :?**
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lightningsarp&label=Views&color=blue&style=plastic" alt="lightningsarp" /> </p>
 
 ### 📈 Start:
