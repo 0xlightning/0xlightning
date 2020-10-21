@@ -6,7 +6,7 @@
 - **🌱 I’m currently learning reversing**
 - **👯 I’m looking to collaborate on Ctf-Players**
 - **🤔 I’m looking for help with creating vulnerable machines**
-- **💬 Ask me about web penti **
+- **💬 Ask me about web penti**
 - **😄 Pronouns: Too reach the top spot one day...**
 - **⚡ Fun fact: doing stupid then you thorugh :?**
 
