@@ -1,5 +1,7 @@
 ### Hi there, I am kspraveen <img src="https://raw.githubusercontent.com/lightningsarp/lightningsarp/main/iteams/Hi.gif" height="30" width="30" /> most of them know me as lightningsarp 
 
+![image](/iteams/programer.gif)
+
 - 🔭 I’m currently studying @ college
 - 🌱 I’m currently learning reversing
 - 👯 I’m looking to collaborate on Ctf-Players
