@@ -15,12 +15,39 @@
 ### 📈 Start:
 ***
 
-<a href="https://github.com/lightningsarp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lightningsarp&theme=light&hide_langs_below=1" />
-</a>
-<a href="https://github.com/lightningsarp">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=lightningsarp&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
-</a>
+<table align="center" width="100%">
+  <tr>
+    <td align="center">
+      <strong> :octocat: I'm proud to be part of these organisations :octocat: </strong><br>
+      <table>
+        <tr>
+          <td align="center">
+            <a href="https://github.com/Kitncdrc">
+              <img src="https://avatars.githubusercontent.com/u/75631289?s=400&u=7692d18f92cd5cad23910d81c5edb94bb8bacbd5&v=4" />
+            </a>
+          </td>
+          <td align="center">
+            <a href="https://github.com/EddieHubCommunity">
+              <img src="https://avatars3.githubusercontent.com/u/66388388?s=150&v=4" />
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td align="center">
+      <img width="120%" src="https://github-readme-stats.vercel.app/api?username=sijin-raj&count_private=true&theme=radical&show_icons=true" />
+    </td>
+  </tr>
+  <tr>
+          <td align="center">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sijin-raj&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28">
+          </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=sijin-raj&theme=dark&hide_border=true&background=120303">
+<!--       [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sijin-raj&theme=dark&hide_border=true&background=120303)](https://git.io/streak-stats) -->
+    </td>
+  </tr>
+</table>
 <a href="https://github.com/lightningsarp/lightningsarp.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lightningsarp&repo=lightningsarp.github.io&theme=light" />
 </a>
