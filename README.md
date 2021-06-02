@@ -1,4 +1,4 @@
-### Hi there, I am kspraveen <img src="https://raw.githubusercontent.com/lightningsarp/lightningsarp/main/iteams/Hi.gif" height="30" width="30" /> most of them know me as lightningsarp 
+### Hi there, I am ks praveen <img src="https://raw.githubusercontent.com/lightningsarp/lightningsarp/main/iteams/Hi.gif" height="30" width="30" /> most of them know me as lightningsarp 
 
 ![image](/iteams/programer.gif)
 
