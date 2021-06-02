@@ -1,3 +1,5 @@
+<p align="center"><img height="30" src="https://forthebadge.com/images/badges/winter-is-coming.svg"/></p>
+
 ### Hi there, I am ks praveen <img src="https://raw.githubusercontent.com/lightningsarp/lightningsarp/main/iteams/Hi.gif" height="30" width="30" /> most of them know me as lightningsarp 
 
 ![image](/iteams/programer.gif)
