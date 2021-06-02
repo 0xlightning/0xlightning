@@ -37,12 +37,12 @@
       </table>
     </td>
     <td align="center">
-      <img width="120%" src="https://github-readme-stats.vercel.app/api?username=lightningsarp&count_private=true&theme=radical&show_icons=true" />
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lightningsarp&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28">
     </td>
   </tr>
   <tr>
           <td align="center">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lightningsarp&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28">
+            <img width="120%" src="https://github-readme-stats.vercel.app/api?username=lightningsarp&count_private=true&theme=radical&show_icons=true" />
           </td>
     <td align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=lightningsarp&theme=dark&hide_border=true&background=120303">
