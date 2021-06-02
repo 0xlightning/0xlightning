@@ -50,10 +50,10 @@
 </table>
 
 <a href="https://github.com/lightningsarp/lightningsarp.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lightningsarp&repo=lightningsarp.github.io&theme=light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lightningsarp&repo=lightningsarp.github.io&theme=radical&show_icons=true" />
 </a>
 <a href="https://github.com/lightningsarp/Ctf-Players">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lightningsarp&repo=Ctf-Players&theme=light" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lightningsarp&repo=Ctf-Players&theme=radical&show_icons=true" />
 </a>
 
 ### 👨‍🎓 ping me if you like :
