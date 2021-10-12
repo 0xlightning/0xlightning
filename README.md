@@ -28,6 +28,9 @@
 <table align="center" width="100%">
   <tr>
     <td align="center">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=lightningsarp&count_private=true&theme=radical&show_icons=true" />
+    </td>
+    <td align="center">
       <strong> :octocat: I'm proud to be part of these organisations :octocat: </strong><br>
       <table>
         <tr>
@@ -43,9 +46,6 @@
           </td>
         </tr>
       </table>
-    </td>
-    <td align="center">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=lightningsarp&count_private=true&theme=radical&show_icons=true" />
     </td>
   </tr>
   <tr>
