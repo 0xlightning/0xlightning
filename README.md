@@ -4,13 +4,13 @@
 
 ![image](/iteams/programer.gif)
 
-- **🔭 I’m currently studying @ college**
-- **🌱 I’m currently learning reversing**
-- **👯 I’m looking to collaborate on Ctf-Players**
-- **🤔 I’m looking for help with creating vulnerable machines**
-- **💬 Ask me about web penti**
+- **🔭 I’m currently looking for job**
+- **🌱 I’m currently learning machine learning**
+- **👯 I’m looking to collaborator on ML AI**
+- **🤔 I’m looking for help with creating data science career**
+- **💬 Ask me about web anime**
 - **😄 Pronouns: Too reach the top spot one day...**
-- **⚡ Fun fact: doing stupid then you thorugh :?**
+- **⚡ Fun fact: doing crazy then you thorugh :?**
 
 [![@0xlightning's Holopin board](https://holopin.io/api/user/board?user=0xlightning)](https://holopin.io/@0xlightning)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xlightning&label=Views&color=blue&style=plastic" alt="0xlightning" /> </p>
