@@ -4,13 +4,13 @@
 
 ![image](/iteams/programer.gif)
 
-- **🔭 I’m currently looking for job**
+- **🔭 I’m currently looking for a job**
 - **🌱 I’m currently learning machine learning**
-- **👯 I’m looking to collaborator on ML AI**
-- **🤔 I’m looking for help with creating data science career**
+- **👯 I’m looking to collaborate on ML AI**
+- **🤔 I’m looking for help with creating a data science career**
 - **💬 Ask me about web anime**
 - **😄 Pronouns: Too reach the top spot one day...**
-- **⚡ Fun fact: doing crazy then you thorugh :?**
+- **⚡ Fun fact: doing crazy than you through:?**
 
 [![@0xlightning's Holopin board](https://holopin.io/api/user/board?user=0xlightning)](https://holopin.io/@0xlightning)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xlightning&label=Views&color=blue&style=plastic" alt="0xlightning" /> </p>
@@ -97,7 +97,7 @@
 <a href="https://t.me/0xlightning">
   <img align="left" alt="kspraveen's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://instagram.com/0xlightning">
+<a href="https://www.instagram.com/lightningxzer0/">
   <img align="left" alt="kspraveen's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/0xlightning/">
