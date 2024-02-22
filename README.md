@@ -97,7 +97,7 @@
 <a href="https://t.me/0xlightning">
   <img align="left" alt="kspraveen's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://instagram.com/kspraveen20">
+<a href="https://instagram.com/0xlightning">
   <img align="left" alt="kspraveen's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/0xlightning/">
