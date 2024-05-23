@@ -19,20 +19,35 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
-<a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank"> <img src="https://avatars.githubusercontent.com/u/42988494?s=200&v=4" alt="arduino" width="40" height="40"/> </a>
+Programing Language: 
+<a href="https://www.python.org/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/1525981?s=200&v=4" alt="Python" width="40" height="40"/> </a> 
+<a href="https://www.java.com/en/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/126123820?s=200&v=4" alt="Java" width="40" height="40"/> </a> 
+<a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> 
 
+Data Science :
+<a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank"> <img src="https://avatars.githubusercontent.com/u/42988494?s=200&v=4" alt="Power BI" width="40" height="40"/> </a>
+<a href="https://jupyter.org/" target="_blank"> <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter Notebook" width="40" height="40"/> </a>
+
+Website (Code) :
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://www.javascript.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
-<a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React JS" width="40" height="40"/> </a> 
+<a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/> </a> 
+
+Website (Code) :
+<a href="https://www.shopify.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/8085?s=200&v=4" alt="Shopify" width="40" height="40"/> </a> 
+<a href="https://www.framer.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/42876?s=200&v=4" alt="Framer" width="40" height="40"/> </a> 
+<a href="https://webflow.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/1229663?s=200&v=4" alt="Webflow" width="40" height="40"/> </a> 
+
+Operating System :
+<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux Kernal" width="40" height="40"/> </a>
+<a href="https://www.microsoft.com/en-in/windows" target="_blank"> <img src="https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Link-List-Icons-Microsoft-365?wid=40&hei=40" alt="Winodows" width="40" height="40"/> </a>
+<a href="https://parrotsec.org/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/8180780?s=200&v=4" alt="Parrot OS" width="40" height="40"/> </a>
+<a href="https://ubuntu.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/4604537?s=200&v=4" alt="Ubuntu OS" width="40" height="40"/> </a>
 </p>
 
 ### 📈 Start:
