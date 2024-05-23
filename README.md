@@ -4,11 +4,11 @@
 
 ![image](/iteams/programer.gif)
 
-- **🔭 I’m currently looking for a job**
+- **🔭 I’m currently Web Developer (Code & No Code)**
 - **🌱 I’m currently learning machine learning**
-- **👯 I’m looking to collaborate on ML AI**
+- **👯 I’m looking for collaboraters on ML AI**
 - **🤔 I’m looking for help with creating a data science career**
-- **💬 Ask me about web anime**
+- **💬 Ask me about website Development**
 - **😄 Pronouns: Too reach the top spot one day...**
 - **⚡ Fun fact: doing crazy than you through:?**
 
