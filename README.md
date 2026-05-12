@@ -1,118 +1,117 @@
-<p align="center"><img height="30" src="https://forthebadge.com/images/badges/winter-is-coming.svg"/></p>
-
-### Hi there, I am ks praveen <img src="https://raw.githubusercontent.com/0xlightning/0xlightning/main/iteams/Hi.gif" height="30" width="30" /> most of them know me as 0xlightning
-
-![image](/iteams/programer.gif)
-
-- **🔭 I’m currently Web Developer (Code & No Code)**
-- **🌱 I’m currently learning machine learning**
-- **👯 I’m looking for collaboraters on ML AI**
-- **🤔 I’m looking for help with creating a data science career**
-- **💬 Ask me about website Development**
-- **😄 Pronouns: Too reach the top spot one day...**
-- **⚡ Fun fact: doing crazy than you through:?**
-
-[![@0xlightning's Holopin board](https://holopin.io/api/user/board?user=0xlightning)](https://holopin.io/@0xlightning)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xlightning&label=Views&color=blue&style=plastic" alt="0xlightning" /> </p>
-
-***
-
-<h3 align="left">Languages and Tools:</h3>
-<p>
-Programing Language: 
-<a href="https://www.python.org/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/1525981?s=200&v=4" alt="Python" width="40" height="40"/> </a> 
-<a href="https://www.java.com/en/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/126123820?s=200&v=4" alt="Java" width="40" height="40"/> </a> 
-<a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> 
-
-Data Science :
-<a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank"> <img src="https://avatars.githubusercontent.com/u/42988494?s=200&v=4" alt="Power BI" width="40" height="40"/> </a>
-<a href="https://jupyter.org/" target="_blank"> <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter Notebook" width="40" height="40"/> </a>
-
-Website (Code) :
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.javascript.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React JS" width="40" height="40"/> </a> 
-<a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/> </a> 
-
-Website (Code) :
-<a href="https://www.shopify.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/8085?s=200&v=4" alt="Shopify" width="40" height="40"/> </a> 
-<a href="https://www.framer.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/42876?s=200&v=4" alt="Framer" width="40" height="40"/> </a> 
-<a href="https://webflow.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/1229663?s=200&v=4" alt="Webflow" width="40" height="40"/> </a> 
-
-Operating System :
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux Kernal" width="40" height="40"/> </a>
-<a href="https://www.microsoft.com/en-in/windows" target="_blank"> <img src="https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Link-List-Icons-Microsoft-365?wid=40&hei=40" alt="Winodows" width="40" height="40"/> </a>
-<a href="https://parrotsec.org/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/8180780?s=200&v=4" alt="Parrot OS" width="40" height="40"/> </a>
-<a href="https://ubuntu.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/4604537?s=200&v=4" alt="Ubuntu OS" width="40" height="40"/> </a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" />
 </p>
 
-### 📈 Start:
-***
+<h2 align="center">Hey, I'm K S Praveen <img src="https://raw.githubusercontent.com/0xlightning/0xlightning/main/iteams/Hi.gif" height="28" width="28" /> — most know me as 0xlightning</h2>
+
+<p align="center">
+  <b>Full-Stack Developer · AI-Accelerated Builder · eCommerce Architect</b><br/>
+  Coimbatore, India 🇮🇳
+</p>
+
+<p align="center">
+  <a href="https://twitter.com/0xlightning"><img src="https://img.shields.io/badge/X-%23000000.svg?style=flat&logo=x&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/kspraveen20/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://t.me/0xlightning"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/kspraveen20/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=0xlightning&label=Profile+Views&color=blueviolet&style=flat" />
+</p>
+
+---
+
+### 🚀 What I'm up to
+
+- 🔭 **Building** — Full-stack SaaS platforms and eCommerce systems with the MERN + Next.js stack
+- 🤖 **AI-first workflow** — I use Claude Code, Antigravity AI, Replit AI & Lovable AI to ship faster and smarter
+- 🛒 **eCommerce** — Shopify customization, WhatsApp automation (Wati), and CRM integration with Zoho
+- 🌱 **Exploring** — Local LLM workflows (Ollama), agentic tools, and no-code/low-code rapid prototyping
+- 👯 **Open to** — Collaborating on AI-assisted projects, SaaS products, and automation tooling
+- 💬 **Ask me about** — Web development, AI-accelerated dev workflows, Shopify builds, Firebase + MongoDB
+
+---
+
+### 🧰 Tech Stack
+
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+
+**AI & Automation**
+
+![Claude](https://img.shields.io/badge/Claude_Code-D97706?style=flat&logo=anthropic&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat)
+![Replit AI](https://img.shields.io/badge/Replit_AI-667881?style=flat&logo=replit&logoColor=white)
+
+**eCommerce & CRM**
+
+![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=flat&logo=shopify&logoColor=white)
+![Zoho](https://img.shields.io/badge/Zoho_CRM-E42527?style=flat&logo=zoho&logoColor=white)
+
+**No Code / Low Code**
+
+![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=flat&logo=webflow&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+### 📊 GitHub Stats
+
 <table align="center" width="100%">
   <tr>
     <td align="center">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=0xlightning&count_private=true&theme=radical&show_icons=true" />
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=0xlightning&count_private=true&theme=radical&show_icons=true&hide_border=true" />
     </td>
     <td align="center">
-      <strong> :octocat: I'm proud to be part of these organisations :octocat: </strong><br>
-      <table>
-        <tr>
-           <td align="center">
-            <a href="https://github.com/Kitncdrc">
-              <img src="https://avatars.githubusercontent.com/u/75631289?s=400&u=7692d18f92cd5cad23910d81c5edb94bb8bacbd5&v=4" height="50" width="50" />
-            </a>
-          </td>
-          <td align="center">
-            <a href="https://github.com/EddieHubCommunity">
-              <img src="https://avatars3.githubusercontent.com/u/66388388?s=150&v=4" height="50" width="50" />
-            </a>
-          </td>
-        </tr>
-      </table>
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=0xlightning&theme=radical&hide_border=true" />
     </td>
   </tr>
   <tr>
-          <td align="center">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xlightning&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28">
-          </td>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=0xlightning&theme=dark&hide_border=true&background=120303">
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xlightning&layout=compact&theme=radical&hide_border=true" />
     </td>
   </tr>
 </table>
 
-<a href="https://github.com/0xlightning/Ctf-Players">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xlightning&repo=Ctf-Players&theme=radical&show_icons=true" />
-</a>
+---
 
-<a href="https://github.com/0xlightning/0xlightning.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xlightning&repo=0xlightning.github.io&theme=radical&show_icons=true" />
-</a>
+### 🏢 Organizations
 
-### 👨‍🎓 ping me if you like :
-***
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Kithackclub">
+        <img src="https://avatars.githubusercontent.com/u/75631289?s=400&v=4" height="50" width="50" />
+        <br/><sub>Kithackclub</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/EddieHubCommunity">
+        <img src="https://avatars3.githubusercontent.com/u/66388388?s=150&v=4" height="50" width="50" />
+        <br/><sub>EddieHub</sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
-<a href="https://twitter.com/0xlightning">
-  <img align="left" alt="kspraveen's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://linkedin.com/in/kspraveen20/">
-  <img align="left" alt="kspraveen's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/0xlightning">
-  <img align="left" alt="kspraveen's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://t.me/0xlightning">
-  <img align="left" alt="kspraveen's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/lightningxzer0/">
-  <img align="left" alt="kspraveen's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/0xlightning/">
-  <img align="left" alt="kspraveen's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<br>
-<br>
+---
+
+[![@0xlightning's Holopin board](https://holopin.io/api/user/board?user=0xlightning)](https://holopin.io/@0xlightning)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" />
+</p>
